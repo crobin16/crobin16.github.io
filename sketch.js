@@ -10,7 +10,7 @@ function preload(){
   drumstickDown = loadImage("drumstickdown.png");
   sounds[0] = loadSound("horn.wav");
   sounds[1] = loadSound("box.aiff");
-  sounds[2] = loadSound("short.aiff");
+  sounds[2] = loadSound("symbol.aiff");
   sounds[3] = loadSound("clap.wav");
   sounds[4] = loadSound("ello.wav");
   sounds[5] = loadSound("priest.wav");
